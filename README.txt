@@ -5,4 +5,4 @@ The project contains 2 notebooks.
 
 Group member:
 
-Qiyue Zhu.  UNI : qz2408
+Qiyue Zhu  UNI : qz2408
